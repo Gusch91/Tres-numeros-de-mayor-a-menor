@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+#contenedor{
+    background-color: blueviolet;
+    height: 25%;
+    width: auto;
+    font-size: 20px;
+    color: cornsilk;
+
+}
+
+#contenedor div {
+    padding: 15px;
+}
